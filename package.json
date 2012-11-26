@@ -1,0 +1,13 @@
+{
+    "name": "caniuse-phonegap"
+  , "version": "0.0.0"
+  , "description": "PhoneGap API compatibility checking"
+  , "keywords": ["phonegap", "api", "compatibility"]
+  , "author": "Chengwei Wu <meegodevelop@gmail.com>"
+  , "repository":{
+        "type": "git"
+      , "url": "git://github.com/wuchengwei/caniuse-phonegap.git"
+    }
+  , "main": "./index.js"
+  , "engines": { "node": ">= 0.8.0" }
+}
