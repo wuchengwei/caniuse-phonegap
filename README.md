@@ -1,4 +1,4 @@
 caniuse-phonegap
 ================
 
-PhoneGap API compatibility check on various platforms.
+PhoneGap API compatibility checking.
